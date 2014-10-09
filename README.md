@@ -30,6 +30,14 @@ http://map-on-net.com
 http://icicle.dylex.net/~ipmap/
 
 ```
+#### The Problem
+
+* Worldwide system. Needs to be up 100% of the time
+* How do you assign a new name or a new IP address to make sure there are no collisions?
+* Need to be able to delegate / decentralize
+
+<p><a href="http://commons.wikimedia.org/wiki/File:Domain_name_space.svg#mediaviewer/File:Domain_name_space.svg"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Domain_name_space.svg/1200px-Domain_name_space.svg.png" alt="Domain name space.svg"></a><br>"<a href="http://commons.wikimedia.org/wiki/File:Domain_name_space.svg#mediaviewer/File:Domain_name_space.svg">Domain name space</a>". Licensed under Public domain via <a href="//commons.wikimedia.org/wiki/">Wikimedia Commons</a>.</p>
+
 
 #### Digging DNS
 * Domain Name Concepts
@@ -62,12 +70,4 @@ dig salas.com +trace
 * [Some Examples of dnsruby in action](http://blog.nominet.org.uk/tech/2009/05/19/some-examples-of-dnsruby-in-action/)
 
 * Grab this gem: https://github.com/alexdalitz/dnsruby
-
-#### The Problem
-
-* Worldwide system. Needs to be up 100% of the time
-* How do you assign a new name or a new IP address to make sure there are no collisions?
-* Need to be able to delegate / decentralize
-
-<p><a href="http://commons.wikimedia.org/wiki/File:Domain_name_space.svg#mediaviewer/File:Domain_name_space.svg"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Domain_name_space.svg/1200px-Domain_name_space.svg.png" alt="Domain name space.svg"></a><br>"<a href="http://commons.wikimedia.org/wiki/File:Domain_name_space.svg#mediaviewer/File:Domain_name_space.svg">Domain name space</a>". Licensed under Public domain via <a href="//commons.wikimedia.org/wiki/">Wikimedia Commons</a>.</p>
 
