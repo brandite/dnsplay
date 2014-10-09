@@ -32,6 +32,23 @@ http://icicle.dylex.net/~ipmap/
 ```
 
 #### Digging DNS
+* Domain Name Concepts
+	* Names: abc.def.ghi.com
+	* .com is the TLD or top level domain
+	* Each subsequent one is a subdomain of the TLD
+	* A "hostname" is a DNS name with at least one IP address
+	* 'Zones' are collections of related nodes
+* DNS Servers
+	* DNS is a 'distributed database'
+	* Nodes in this system are 'name servers'
+	* Authoritative name server has the real facts about the domain
+		* Master and slave!
+	* Recursive name servers
+	* Domain Name registrar (eg. GoDaddy.com) point to primary and secondary authortative name servers
+
+<p><a href="http://commons.wikimedia.org/wiki/File:An_example_of_theoretical_DNS_recursion.svg#mediaviewer/File:An_example_of_theoretical_DNS_recursion.svg"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/7/77/An_example_of_theoretical_DNS_recursion.svg/1200px-An_example_of_theoretical_DNS_recursion.svg.png" alt="An example of theoretical DNS recursion.svg"></a><br>"<a href="http://commons.wikimedia.org/wiki/File:An_example_of_theoretical_DNS_recursion.svg#mediaviewer/File:An_example_of_theoretical_DNS_recursion.svg">An example of theoretical DNS recursion</a>". Licensed under Public domain via <a href="//commons.wikimedia.org/wiki/">Wikimedia Commons</a>.</p>
+
+
 * [Understanding the dig Command](http://kb.mediatemple.net/questions/909/Understanding+the+dig+command)
 * [Understanding the dig command](https://www.madboa.com/geek/dig/)
 
