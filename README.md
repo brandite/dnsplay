@@ -55,6 +55,7 @@ http://icicle.dylex.net/~ipmap/
 ```
 dig brandeis.edu
 dig salas.com +trace
+```
 
 #### Code
 
