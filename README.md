@@ -3,10 +3,12 @@
 
 #### Set up
 * We are using Ruby. Make sure you have Ruby and RubyGems installed.
-```ruby -v
+```
+ruby -v
 ruby 2.1.2p95 (2014-05-08 revision 45877) [x86_64-darwin13.0]
 gem -v
-2.2.2```
+2.2.2
+```
 
 #### Some simple concepts
 * MAC address: Media Access Controll address
