@@ -48,8 +48,8 @@ http://icicle.dylex.net/~ipmap/
 
 <p><a href="http://commons.wikimedia.org/wiki/File:An_example_of_theoretical_DNS_recursion.svg#mediaviewer/File:An_example_of_theoretical_DNS_recursion.svg"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/7/77/An_example_of_theoretical_DNS_recursion.svg/1200px-An_example_of_theoretical_DNS_recursion.svg.png" alt="An example of theoretical DNS recursion.svg"></a><br>"<a href="http://commons.wikimedia.org/wiki/File:An_example_of_theoretical_DNS_recursion.svg#mediaviewer/File:An_example_of_theoretical_DNS_recursion.svg">An example of theoretical DNS recursion</a>". Licensed under Public domain via <a href="//commons.wikimedia.org/wiki/">Wikimedia Commons</a>.</p>
 
+#### Dig Command for looking at DNS
 
-* [Understanding the dig Command](http://kb.mediatemple.net/questions/909/Understanding+the+dig+command)
 * [Understanding the dig command](https://www.madboa.com/geek/dig/)
 
 ```
@@ -57,6 +57,7 @@ dig brandeis.edu
 dig salas.com +trace
 
 #### Code
+
 * [Some Examples of dnsruby in action](http://blog.nominet.org.uk/tech/2009/05/19/some-examples-of-dnsruby-in-action/)
 * Grab this gem: https://github.com/alexdalitz/dnsruby
 
