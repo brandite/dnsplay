@@ -1,18 +1,21 @@
 ## DNS: What's in it for you
 
+#### Some simple concepts
+* MAC address: Media Access Controll address
+* IP Address: Internet Protocol Address
+* Domain name: brandeis.edu
+* DNS: DOmain Name System
+* MAC addresses, IP addresses and DNS
+
+
 ### Demo
 
-    ping salas.com
-    traceroute salas.com
-    open http://map-on-net.com
+```
+ping salas.com
+traceroute salas.com
+open http://map-on-net.com
+```
 
-Basic Terms
-
-MAC address: Media Access Controll address
-IP Address: Internet Protocol Address
-Domain name: brandeis.edu
-DNS: DOmain Name System
-MAC addresses, IP addresses and DNS
 
 User types in a domain name
 Target computer is identified by a MAC address
