@@ -28,10 +28,19 @@ traceroute brandeis.edu
 
 http://map-on-net.com
 http://icicle.dylex.net/~ipmap/
+
 ```
 
+#### Digging DNS
+* [Understanding the dig Command](http://kb.mediatemple.net/questions/909/Understanding+the+dig+command)
+* [Understanding the dig command](https://www.madboa.com/geek/dig/)
+
+```
+dig brandeis.edu
+dig salas.com +trace
+
 #### Code
-* We are using Ruby
+* [Some Examples of dnsruby in action](http://blog.nominet.org.uk/tech/2009/05/19/some-examples-of-dnsruby-in-action/)
 * Grab this gem: https://github.com/alexdalitz/dnsruby
 
 #### The Problem
