@@ -59,6 +59,7 @@ dig salas.com +trace
 #### Code
 
 * [Some Examples of dnsruby in action](http://blog.nominet.org.uk/tech/2009/05/19/some-examples-of-dnsruby-in-action/)
+
 * Grab this gem: https://github.com/alexdalitz/dnsruby
 
 #### The Problem
